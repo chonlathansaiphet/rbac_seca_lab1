@@ -2,5 +2,6 @@
   echo "Main<";
   echo "Products";
   echo "About Us";
+  echo "exit";
 
 ?>
